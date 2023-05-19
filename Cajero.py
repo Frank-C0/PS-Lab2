@@ -86,7 +86,7 @@ class Cajero:
 class MenuCajero:
   def __init__(self):
     self.continuar_menu = True
-    self.cajero:Cajero = Cajero()
+    self.cajero:Cajero = Cajero(open('datos.json'))
     
   def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
