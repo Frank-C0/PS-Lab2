@@ -1,0 +1,64 @@
+{
+    "users": [
+      {
+        "username": "Frank",
+        "password": 12345, 
+        "saldo": 5000,
+        "fecha_ultima_transaccion": {
+          "day": 17,
+          "month": 5,
+          "year": 2023
+        },
+        "monto_retirado_ultimo_dia": 300,
+        "monto_depositado_ultimo_dia": 400
+      },
+      {
+        "username": "default",
+        "password": 5467,
+        "saldo": 5000,
+        "fecha_ultima_transaccion": {
+          "day": 17,
+          "month": 5,
+          "year": 2023
+        },
+        "monto_retirado_ultimo_dia": 300,
+        "monto_depositado_ultimo_dia": 400
+      },
+      {
+        "username": "Jose",
+        "password": 12345,
+        "saldo": 6000,
+        "fecha_ultima_transaccion": {
+          "day": 11,
+          "month": 11,
+          "year": 2023
+        },
+        "monto_retirado_ultimo_dia": 0,
+        "monto_depositado_ultimo_dia": 600
+      },
+      {
+        "username": "Luis",
+        "password": 12345,
+        "saldo": 4000,
+        "fecha_ultima_transaccion": {
+          "day": 11,
+          "month": 11,
+          "year": 2023
+        },
+        "monto_retirado_ultimo_dia": 200,
+        "monto_depositado_ultimo_dia": 1000
+      },
+      {
+        "username": "admin",
+        "password": 12345,
+        "saldo": 3000,
+        "fecha_ultima_transaccion": {
+          "day": 11,
+          "month": 11,
+          "year": 2023
+        },
+        "monto_retirado_ultimo_dia": 1200,
+        "monto_depositado_ultimo_dia": 1100
+      }
+    ]
+  }
